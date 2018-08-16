@@ -1,2 +1,2 @@
-var firstName = 'John';
+var firstName = 'John Go fuckyourself';
 console.log(firstName);
