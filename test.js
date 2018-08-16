@@ -1,1 +1,2 @@
-console.log('hello there!');
+var firstName = 'John';
+console.log(firstName);
